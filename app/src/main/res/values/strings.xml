@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pinterest Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pins">pins</string>
+    <string name="user">user</string>
+    <string name="perhatian">Perhatian</string>
+    <string name="detail_pin">Detail Pin</string>
+</resources>
